@@ -1,0 +1,3 @@
+wj\template\runtime\parser\grammer\TemplateParserBaseListener.class
+wj\template\parser\ast\AstBinaryOperator.class
+wj\template\runtime\TempForIterator.class

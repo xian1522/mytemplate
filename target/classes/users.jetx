@@ -1,0 +1,4 @@
+<#if test??>
+${test?substring(0,2)}45
+</#if>
+${user.getName()}
